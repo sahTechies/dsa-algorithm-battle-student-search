@@ -1,0 +1,86 @@
+Instructions to the Students:
+1. Select one simple real-world application that requires efficient data storage and searching.
+Examples include:
+a. Student Record Search
+b. Employee ID Search
+c. Library Book Search
+d. Contact Management
+e. Product ID Search
+2. Implement the selected application using the following three data structures:
+a. Binary Search Tree (BST)
+b. AVL Tree
+c. Hashing
+3. Implement the following basic operations:
+a. Insertion
+b. Searching
+c. Appropriate tree traversal for BST and AVL
+d. Collision handling using Linear Probing for Hashing
+
+8
+
+SRM Institute of Science and Technology, Tiruchirappalli
+Continuous Learning Assessment – 2 (As per B.Tech. 2021 Regulations)
+
+Course Assignment Instructions with Rubrics
+4. Perform a mini experiment using the same dataset for all three techniques.
+a. Record and compare:
+b. Number of comparisons for searching
+c. Tree height for BST and AVL
+d. Number of collisions in Hashing
+e. Successful search
+f. Unsuccessful search
+5. Based on your experimental observations, identify which data structure performs better for your
+selected application.
+6. Prepare a brief technical comparison and provide a justified final recommendation.
+7. During the technical defense/viva, the faculty may provide a new value or search key and ask you to
+demonstrate or explain how each data structure handles it.
+8. Each student must understand and explain the submitted work. Individual contribution will be
+verified through viva and technical questioning.
+9. The Task must be submitted in GitHub and Google Classroom.
+Assessment Question: ALGORITHM BATTLE – “WHICH DATA STRUCTURE WINS?”
+1. A real-world application requires an efficient mechanism for storing and searching data.
+2. Choose one suitable application and develop three solutions using:
+a. Binary Search Tree (BST)
+b. AVL Tree
+c. Hashing
+3. Your task is to:
+
+Design → Implement → Test → Compare → Analyze → Recommend
+Part A – Problem Selection: Select a real-world application and explain:
+a. What is the problem?
+b. Why is efficient searching required?
+c. Why are BST, AVL and Hashing suitable for comparison?
+Part B – Implementation: Implement the selected application using:
+a. BST
+b. AVL Tree
+c. Hashing with Linear Probing
+Part C – Mini Experiment: Use your dataset of 30–50 unique records and perform:
+a. Successful search
+d. Unsuccessful search
+e. Insertion
+Record the observations.
+Part D – Algorithm Battle: Compare the three approaches based on:
+Parameter BST AVL Hashing
+Search comparisons
+Insertion observations
+Height –
+Collisions – –
+Overall observation
+
+Part E – Final Verdict: Answer:
+
+9
+
+SRM Institute of Science and Technology, Tiruchirappalli
+Continuous Learning Assessment – 2 (As per B.Tech. 2021 Regulations)
+
+Course Assignment Instructions with Rubrics
+a. Which data structure is the winner for your selected application?
+b. Support your answer using your own experimental observations.
+
+Guidelines:
+1. Students must be able to explain their code and results during the technical defense.
+2. AI-generated or fabricated experimental results will not be accepted.
+3. Maintain plagiarism below 15%.
+4. The complete task must be submitted through GitHub and Google Classroom.
+5. The GitHub repository link must be submitted in Google Classroom.
